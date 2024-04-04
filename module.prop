@@ -1,6 +1,7 @@
-id=debuggable.prop
-name=Set ro.debuggable to 1
-version=v1.0
+id=no-adb-prompt
+name=no-adb-prompt
+version=v0.0.2
 versionCode=1
-author=Mygod
-description=Sets ro.debuggable to 1 using system.prop.
+author=MisakaMikoto-35c5
+description=Disable ADB authorize prompt & enable debuggable. (Dangerous!)
+updateJson=https://github.com/MisakaMikoto-35c5/no-adb-prompt/raw/master/update-json/stable.json
